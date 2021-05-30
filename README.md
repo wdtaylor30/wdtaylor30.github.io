@@ -1,5 +1,22 @@
 # About Me
+I am a junior at the University of North Carolina at Chapel Hill. <br>
+I'm working toward a Bachelor of Science in Computer Science, a Bachelor
+of Arts in Political Science, and a Minor in Data Science. <br> <br>
 
+My interests lie at the intersection of technology and policy. <br>
+I'm intersted in security issues such as national/election security and
+cybercrime. I look for ways to combine my studies of domestic politics
+and international relations with my understanding of the technical
+aspects of information security. <br> <br>
+
+I'm also interested in technology efficacy. <br>
+As I continue my studies in data science, I'm obligated to become a
+responsible user and consumer of data. I'm interested in tackling
+issues of algorithmic bias, both in academia and in industry.
+
+## Experiences
+**Identity and Access Management Intern** - _Summer 2020_
+**USC SPEC Lab NSF REU Fellow** - _Summer 2021_
 
 ## Relevant Coursework
 - COMP 210: Data Structures and Analysis
@@ -10,3 +27,6 @@
 - POLI 381: Data in Politics II
 
 ## Personal Projects
+In my free time I enjoy following tutorials. <br>
+I'm currently working through Thomas Albin's _Space Science with Python_ data science series. Click on "View My GitHub Profile" to see what I'm
+working on!
