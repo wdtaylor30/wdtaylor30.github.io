@@ -3,20 +3,23 @@ I am a junior at the University of North Carolina at Chapel Hill. <br>
 I'm working toward a Bachelor of Science in Computer Science, a Bachelor
 of Arts in Political Science, and a Minor in Data Science. <br> <br>
 
-My interests lie at the intersection of technology and policy. <br>
+My interests lie at the intersection of technology and policy.
 I'm intersted in security issues such as national/election security and
 cybercrime. I look for ways to combine my studies of domestic politics
 and international relations with my understanding of the technical
 aspects of information security. <br> <br>
 
-I'm also interested in technology efficacy. <br>
+I'm also interested in technology efficacy.
 As I continue my studies in data science, I'm obligated to become a
 responsible user and consumer of data. I'm interested in tackling
 issues of algorithmic bias, both in academia and in industry.
 
 ## Experiences
-**Identity and Access Management Intern** - _Summer 2020_
-**USC SPEC Lab NSF REU Fellow** - _Summer 2021_
+**Identity and Access Management Intern** - _Allscripts_ <br>
+Summer 2020 <br>
+
+**USC SPEC Lab NSF REU Fellow** - _University of Southern California_ <br>
+Summer 2021
 
 ## Relevant Coursework
 - COMP 210: Data Structures and Analysis
