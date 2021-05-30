@@ -1,7 +1,12 @@
 theme: jekyll-theme-minimal
 title: William Daniel Taylor
 include: "/images/headshot.JPEG"
-description: |- \n
-  B.S. Computer Science \n
-  B.A. Political Science \n
-  Minor in Data Science
+description:
+  "B.S. Computer Science"
+
+  "B.A. Political Science"
+
+  "Minor in Data Science"
+
+  
+  "LinkedIn: https://www.linkedin.com/in/wdtaylor30/"
