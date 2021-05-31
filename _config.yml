@@ -1,4 +1,5 @@
+---
 theme: jekyll-theme-minimal
 title: William Daniel Taylor
-description:
-  "B.S. Computer Science"
+filename: index.md
+---
