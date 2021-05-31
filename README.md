@@ -1,4 +1,5 @@
 # About Me
+![image](images/headshot.JPEG)
 I am a junior at the University of North Carolina at Chapel Hill. <br>
 I'm working toward a Bachelor of Science in Computer Science, a Bachelor
 of Arts in Political Science, and a Minor in Data Science. <br> <br>
@@ -12,14 +13,14 @@ aspects of information security. <br> <br>
 I'm also interested in technology efficacy.
 As I continue my studies in data science, I'm obligated to become a
 responsible user and consumer of data. I'm interested in tackling
-issues of algorithmic bias, both in academia and in industry.
+issues of algorithmic bias, in academia as well as in industry.
 
 ## Experiences
-**Identity and Access Management Intern** - _Allscripts_ <br>
-Summer 2020 <br>
-
 **USC SPEC Lab NSF REU Fellow** - _University of Southern California_ <br>
 Summer 2021
+
+**Identity and Access Management Intern** - _Allscripts_ <br>
+Summer 2020 <br>
 
 ## Relevant Coursework
 - COMP 210: Data Structures and Analysis
