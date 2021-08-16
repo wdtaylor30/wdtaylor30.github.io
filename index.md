@@ -15,10 +15,8 @@
     responsible user and consumer of data. I'm interested in tackling
     issues of algorithmic bias, in academia as well as in industry.
 
-## Resume
-    ```html
-    <a href = "wdtaylor30.github.io/resume/Taylor_resume.pdf" target="_blank">PDF.</a>
-    ```
+<a href="https://wdtaylor30.github.io/resume/Taylor_resume.pdf">Resume</a>
+
 ## Experiences
     **USC SPEC Lab NSF REU Fellow** - _University of Southern California_ <br>
     Summer 2021
