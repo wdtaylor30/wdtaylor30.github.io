@@ -17,7 +17,7 @@
 
 ## Resume
     ```html
-    <a href = "wdtaylor30.github.io/resume/Taylor_resume.pdf" target="_blank>PDF.</a>
+    <a href = "wdtaylor30.github.io/resume/Taylor_resume.pdf" target="_blank">PDF.</a>
     ```
 ## Experiences
     **USC SPEC Lab NSF REU Fellow** - _University of Southern California_ <br>
