@@ -15,6 +15,9 @@ As I continue my studies in data science, I'm obligated to become a
 responsible user and consumer of data. I'm interested in tackling
 issues of algorithmic bias, in academia as well as in industry.
 
+## Resume
+<a href = "wdtaylor30.github.io/resume/William Taylor Work Resume 080821.docx?.pdf" target="_blank>PDF.</a>
+
 ## Experiences
 **USC SPEC Lab NSF REU Fellow** - _University of Southern California_ <br>
 Summer 2021
