@@ -1,5 +1,8 @@
 # About Me
 ![image](images/headshot.JPEG)
+
+<a href="https://wdtaylor30.github.io/resume/Taylor_resume.pdf">Resume</a>
+
 I am a junior at the University of North Carolina at Chapel Hill. <br>
 I'm working toward a Bachelor of Science in Computer Science, a Bachelor
 of Arts in Political Science, and a Minor in Data Science. <br> <br>
@@ -14,8 +17,6 @@ I'm also interested in technology efficacy.
 As I continue my studies in data science, I'm obligated to become a
 responsible user and consumer of data. I'm interested in tackling
 issues of algorithmic bias, in academia as well as in industry.
-
-<a href="https://wdtaylor30.github.io/resume/Taylor_resume.pdf">Resume</a>
 
 ## Experiences
 **USC SPEC Lab NSF REU Fellow** - _University of Southern California_ <br>
