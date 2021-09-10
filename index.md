@@ -5,16 +5,15 @@
 
 I am a junior at the University of North Carolina at Chapel Hill. <br>
 I'm working toward a Bachelor of Science in Computer Science, a Bachelor
-of Arts in Political Science, and a Minor in Data Science. <br> <br>
+of Arts in Political Science, and a Minor in Data Science. <br>
+After graduation, I plan on pursuing a Ph.D., either in Political Science or Computer Science.<br> <br>
 
-My interests lie at the intersection of technology and policy.
-I'm intersted in security issues such as national/election security and
-cybercrime. I look for ways to combine my studies of domestic politics
-and international relations with my understanding of the technical
-aspects of information security. <br> <br>
+My interests lie in the the utilization of quantitative and computer science methodologies to study political phenomena.
+Examples of past work include generating visualizations based on country-year datasets, as well as visualizing and creating regression models from survey data.
+In the future, I'm interested in exploring how network analysis can be used to model international cyber attacks, and if set theory and survey data can be used to determine whether "independent" voters are _truly_ independent.<br> <br>
 
 I'm also interested in technology efficacy.
-As I continue my studies in data science, I'm obligated to become a
+As I continue to do empirical research, I'm obligated to become a
 responsible user and consumer of data. I'm interested in tackling
 issues of algorithmic bias, in academia as well as in industry.
 
