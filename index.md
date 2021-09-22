@@ -10,7 +10,7 @@ After graduation, I plan on pursuing a Ph.D., either in Political Science or Com
 
 My interests lie in the the utilization of quantitative and computational methodologies to study political phenomena.
 Examples of past work include generating visualizations based on country-year datasets, as well as visualizing and creating regression models from survey data.
-In the future, I'm interested in exploring how network analysis can be used to model international cyber attacks, exploring clustering methods to analyze spatial voting patterns, and if set theory and survey data can be used to determine whether independent voters actually hold independent values.<br> <br>
+In the future, I'm interested in exploring how network analysis can be used to model international cyber attacks, exploring clustering methods to analyze spatial voting theory, and if set theory and survey data can be used to determine whether independent voters actually hold independent values.<br> <br>
 
 I'm also interested in technology efficacy.
 As I continue to do quantitative research, I'm obligated to become a
