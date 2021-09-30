@@ -11,10 +11,10 @@ After graduation, I plan on pursuing a Ph.D., either in Political Science or Com
 My interests lie in the the utilization of quantitative and computational methodologies to study political phenomena.
 Examples of past work include generating visualizations based on country-year datasets, as well as visualizing and creating regression models from survey data. <br> <br>
 
-The following are senior thesis/graduate school topics I'm interested in exploring if...
+Looking ahead to my senior thesis/graduate school, I'm interested in exploring if...
 - network analysis can be used to model international cyber attacks.
 - clustering methods and spatial voting theory can be used to study affective polarization.
-- set theory and survey data can be used to determine whether independent voters actually hold independent values.<br> <br>
+- set theory and survey data can be used to understand the values that politically "independent" voters hold.<br> <br>
 
 I'm also interested in technology efficacy.
 As I continue to do quantitative research, I'm obligated to become a
