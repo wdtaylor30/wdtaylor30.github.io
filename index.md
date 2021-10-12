@@ -15,7 +15,7 @@ Examples of past work include generating visualizations based on country-year da
 Looking ahead to my senior thesis/graduate school, I'm interested in exploring if...
 - network analysis can be used to model international cyber attacks.
 - clustering methods and spatial voting theory can be used to study affective polarization.
-- set theory and survey data can be used to understand the values that politically "independent" voters hold.<br> <br>
+- set theory can be used to further current literature on Duverger's Law.<br> <br>
 
 I'm also interested in technology efficacy.
 As I continue to do quantitative research, I'm obligated to become a
