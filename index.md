@@ -15,7 +15,8 @@ Examples of past work include generating visualizations based on country-year da
 Looking ahead to my senior thesis/graduate school, I'm interested in using:
 - network analysis to model international cyber attacks and their economic effects.
 - clustering methods and spatial voting theory to study affective polarization.
-- set theory to further current literature on Duverger's Law.<br> <br>
+- set theory to further current literature on Duverger's Law.
+- text analysis to detect dog-whistle language in political elites' social media posts. <br><br>
 
 I'm also interested in technology efficacy.
 As I continue to do quantitative research, I'm obligated to become a
