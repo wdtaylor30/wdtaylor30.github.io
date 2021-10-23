@@ -2,7 +2,8 @@
 ![image](images/headshot.JPEG)
 
 <a href="https://wdtaylor30.github.io/resume/Taylor_resume.pdf">Resume</a><br>
-<a href="https://wdtaylor30.github.io/writing_sample/Writing_Sample.pdf">Writing Sample</a>
+<a href="https://wdtaylor30.github.io/writing_sample/Writing_Sample.pdf">Academic Writing Sample</a>
+<a href="https://wdtaylor30.github.io/writing_sample/report_sample.pdf">Report Sample</a>
 
 I am a junior at the University of North Carolina at Chapel Hill. <br>
 I'm working toward a Bachelor of Science in Computer Science, a Bachelor
