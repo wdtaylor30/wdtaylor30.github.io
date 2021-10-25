@@ -17,7 +17,7 @@ Looking ahead to my senior thesis/graduate school, I'm interested in learning ab
 - network analysis to model international cyber attacks and their economic effects.
 - clustering methods and spatial voting theory to study affective polarization.
 - set theory to further current literature on Duverger's Law.
-- general adversarial networks to understand the implications of deepfakes in politics. <br><br>
+- general adversarial networks to explore the use cases and implications of deepfakes in politics. <br><br>
 
 I'm also interested in technology efficacy.
 As I continue to do quantitative research, I'm obligated to become a
