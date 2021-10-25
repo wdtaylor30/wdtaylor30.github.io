@@ -13,11 +13,11 @@ After graduation, I plan on pursuing a Ph.D., either in Political Science or Com
 My interests lie in the the utilization of quantitative and computational methodologies to study political phenomena.
 Examples of past work include generating visualizations based on country-year datasets, as well as visualizing and creating regression models from survey data. <br> <br>
 
-Looking ahead to my senior thesis/graduate school, I'm interested in using:
+Looking ahead to my senior thesis/graduate school, I'm interested in learning about and using:
 - network analysis to model international cyber attacks and their economic effects.
 - clustering methods and spatial voting theory to study affective polarization.
 - set theory to further current literature on Duverger's Law.
-- text analysis to detect dog-whistle language in political elites' social media posts. <br><br>
+- general adversarial networks to understand the implications of deepfakes in politics. <br><br>
 
 I'm also interested in technology efficacy.
 As I continue to do quantitative research, I'm obligated to become a
