@@ -5,9 +5,9 @@
 <a href="https://wdtaylor30.github.io/writing_sample/Writing_Sample.pdf">Academic Writing Sample</a><br>
 <a href="https://wdtaylor30.github.io/writing_sample/report_sample.pdf">Report Sample</a>
 
-I am a junior at the University of North Carolina at Chapel Hill. <br>
+I am a junior at the University of North Carolina at Chapel Hill.
 I'm working toward a Bachelor of Science in Computer Science, a Bachelor
-of Arts in Political Science, and a Minor in Data Science. <br>
+of Arts in Political Science, and a Minor in Data Science. <br> <br>
 After graduation, I plan on pursuing a Ph.D., either in Political Science or Computer Science.<br> <br>
 
 My interests lie in the the utilization of quantitative and computational methodologies to study political phenomena.
