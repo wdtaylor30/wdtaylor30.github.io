@@ -1,5 +1,5 @@
 # About Me
-![image](images/headshot2.JPEG)
+![image](images/headshot3.JPEG)
 
 <a href="https://wdtaylor30.github.io/resume/Taylor_resume.pdf">Resume</a><br>
 <a href="https://wdtaylor30.github.io/writing_sample/Writing_Sample.pdf">Academic Writing Sample</a><br>
