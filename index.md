@@ -14,8 +14,8 @@ My interests lie in the the utilization of quantitative and computational method
 
 I'm especially interested in the impact of technology on the modern policial sphere. Looking ahead to my senior thesis/graduate school, I'm interested in learning about and using:
 - generative adversarial networks to explore the use cases and implications of deepfakes in politics.
-- graph theory to analyze the interconnectedness of social media bots with malicious political intent
-- supervised learning to detect the aformentioned social media bots. <br><br>
+- graph theory to analyze the interconnectedness of social media bots with malicious political intent.
+- supervised learning to detect those aformentioned social media bots. <br><br>
 
 I'm also interested in technology efficacy.
 As I continue to do quantitative research, I'm obligated to become a
