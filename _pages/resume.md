@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "ResumeI + CV At-A-Glance"
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -10,4 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](/Users/wdtay/Documents/website/files/Taylor_resume.pdf)
+[Resume](/files/Taylor_resume.pdf)
+
+
+
