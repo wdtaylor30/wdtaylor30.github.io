@@ -35,5 +35,5 @@ Summer 2020
 - POLI 381: Data in Politics II
 
 ## Personal Projects
-In my free time I enjoy making YouTube videos and streaming on Twitch.<br>
+In my free time I enjoy making YouTube videos and streaming on Twitch.<br> <br>
 These videos pertain to life as a college student, particularly content relating to succeeding as a STEM student. Click the link below to check out my latest video!
