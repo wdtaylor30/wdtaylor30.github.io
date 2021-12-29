@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-In my free time, I make computer science "edutainment" content on YouTube and Twitch.
+In my free time, I make computer science "edutainment" content on [YouTube](https://www.youtube.com/user/https://www.youtube.com/channel/UCMFgsiB1pfEGzmeZ7jmeHeg) and [Twitch](https://www.twitch.tv/wdtlive).
 
 I grew up playing video games and watching popular content creators stream and post videos. In middle school I built a gaming computer and attempted to make the same content, unfortunately without much noteworthy success. Through that experience, however, I developed a videography and editing skillset that I continue to leverage.
 
