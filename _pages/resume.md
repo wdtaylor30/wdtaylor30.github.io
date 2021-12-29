@@ -19,7 +19,7 @@ Present
 **USC SPEC Lab NSF REU Fellow** - _University of Southern California_ <br>
 Summer 2021
 
-**Identity and Access Management Intern** - _Allscripts__ <br>
+**Identity and Access Management Intern** - _Allscripts_ <br>
 Summer 2020
 
 ## Relevant Coursework
