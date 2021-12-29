@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume + CV At-A-Glance"
+title: "Resume + CV-At-A-Glance"
 permalink: /resume/
 author_profile: true
 redirect_from:
