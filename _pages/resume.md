@@ -45,4 +45,4 @@ _An asterisk indicates that I'm currently taking a class. I look forward to mast
 ## Personal Projects
 In my free time I enjoy making YouTube videos and streaming on Twitch.
 
-My content pertains to life as a college student--particularly content relating to succeeding as a STEM student. Click on "YouTube" to the left to check out my latest video!
+My content pertains to life as a college student--particularly content relating to succeeding as a STEM student. Click [here](https://wdtaylor30.github.io/content/) to learn more!

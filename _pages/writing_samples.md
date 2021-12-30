@@ -1,5 +1,5 @@
 ---
-layour: archive
+layout: archive
 title: "Writing Samples"
 permalink: /writing-samples/
 author_profile: true
