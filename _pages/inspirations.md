@@ -32,4 +32,4 @@ Numberphile et al are channels dedicated to scientific communication. What I enj
 
 To me, Vi Hart is equal parts enigma and genius. I was first introduced to their videos in high school by my music theory teacher, who showed their [Twelve Tone Row](https://www.youtube.com/watch?v=4niz8TfY794) video to the class. Much like the Numberphile videos, I enjoy Vi's pen-and-paper style of video. Perhaps what I admire most about them is that they center their work on what *they* find interesting, not necessarily what they think will get the most views. Both practically and philosophically, I hope to incorporate much of Vi's style in my own content.
 
-As a final thought, I find inspiration from many sources, from music to video games to science-fiction and fantasy. Please feeel free to email me with recommendations of works that you (the reader) find interesting.
+As a final thought, I find inspiration from many sources, from music to video games to science-fiction and fantasy. Please feel free to email me with recommendations of works that you (the reader) find inspring!
