@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+# About Me
 Hello! I am a junior at the University of North Carolina at Chapel Hill. I'm working toward a Bachelor of Science in Computer Science, a Bachelor of Arts in Political Science, and a Minor in Data Science. <br> <br>
 
 After graduation I plan on pursuing a Ph.D., either in Political Science or Computer Science.<br> <br>
