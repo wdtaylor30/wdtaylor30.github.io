@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-*I am currently seeking internship/research opportunities for summer 2022, as well as graduate school opportunities beginning Fall 2023!*
+*I am currently seeking internship/research opportunities for Summer 2022, as well as graduate school opportunities beginning Fall 2023!*
 
 [Resume](/files/Taylor_resume.pdf)
 
