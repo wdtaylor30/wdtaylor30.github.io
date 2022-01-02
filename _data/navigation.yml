@@ -3,11 +3,11 @@ main:
   - title: "Resume"
     url: /resume/
 
+  - title: "Writing Samples"
+    url: /writing-samples/
+
   - title: "YouTube/Twitch"
     url: /content/
-
-  - title: "Writing Samples"
-    url: /writing-samples
 
   - title: "Inspirations"
     url: /inspirations/
