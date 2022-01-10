@@ -14,7 +14,7 @@ In my free time, I make computer science "edutainment" content on [YouTube](http
 
 I grew up playing video games and watching popular content creators stream and post videos. In middle school I built a gaming computer and attempted to make the same content, unfortunately without much noteworthy success. Through that experience, however, I developed a videography and editing skillset that I continue to leverage.
 
-Obviously there is a time and place for powerpoint-and-chalkboard-style lectures. However, I believe that to reach the next generation of STEM students a more engaging method must be employed.
+Obviously there is a time and place for powerpoint/whiteboard-style lectures. However, I believe that to reach the next generation of STEM students a more engaging method must be employed.
 
 I believe that there exists an underexposed, uninterested, and otherwise underrepresented population of individuals that *could* study computer science given access to the appropriate resources. I want to bridge the gap between those students and the current education system that doesn't always reach them. 
 
