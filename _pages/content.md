@@ -16,7 +16,9 @@ I grew up playing video games and watching popular content creators stream and p
 
 Obviously there is a time and place for powerpoint/whiteboard-style lectures. However, I believe that to reach the next generation of STEM students a more engaging method must be employed.
 
-I believe that there exists an underexposed, uninterested, and otherwise underrepresented population of individuals that *could* study computer science given access to the appropriate resources. I want to bridge the gap between those students and the current education system that doesn't always reach them. 
+I believe that there exists an underexposed, uninterested, and otherwise underrepresented population of individuals that *could* study computer science given access to the appropriate resources. I want to bridge the gap between those students and the current education system that doesn't always reach them.
+
+Perhaps more important than informativeness and entertainment factor, I truly believe representation matters. My end goal is to create a safe space for students from *all* backgrounds to study STEM, transcending racial, ethnic, socioeconomic, and gender identities.
 
 Currently, my content focuses on interview prep, cyber security, and applications of data science. As examples, I have done videos on the [internship process](https://www.youtube.com/watch?v=HbKJBQr3x_k), and the [basics of zero-day exploits](https://www.youtube.com/watch?v=RFv4-4aT6ZU). (Without giving too much away) I'm currently working on a data science video about sports, an exploratory of the basics of DMCA/copyright laws, and nontraditional applications of text generation using machine learning.
 
