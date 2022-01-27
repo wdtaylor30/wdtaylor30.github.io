@@ -9,8 +9,8 @@ redirect_from:
 
 Hello! I am a junior at the University of North Carolina at Chapel Hill. I'm working toward a Bachelor of Science in Computer Science, a Bachelor of Arts in Political Science, and a Minor in Data Science. <br> <br>
 
-After graduation I plan on pursuing a Ph.D., either in Political Science or Computer Science.<br> <br>
+I currently work as an Undergraduate Research Assistant with Dr. Frank Baumgartner. My tasks primarily consist of cleaning and reshaping data to be merged with his main database. <br> <br>
 
-My interests lie in the utilization of quantitative and computational methodologies to study political phenomena. Examples of past work include generating visualizations based on country-year datasets, as well as visualizing and creating regression models from survey data. <br> <br>
+After graduation I plan on puruing a Ph.D., either in Political Science or Computer Science. My interests lie in the utilization of quantitative and computational methodologies to study political phenomena. Examples of past work include running regressions and generating visualizations based on country-year datasets; generating tables and visualization from survey data; and updating datasets in the backend while making appropriate changes to the prose. My future work will continue to be interdisciplinary in nature, working within a team of scholars from different backgrounds to push the boundaries of computation in social science.<br> <br>
 
 I'm also interested in technology efficacy. As I continute to do quantitative research, I'm obligated to become a responsible user and consumer of data. To that end, I'm interested in tackling issues of algorithmic bias, in academia as well as in industry.
