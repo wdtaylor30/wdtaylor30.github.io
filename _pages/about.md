@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am a junior at the University of North Carolina at Chapel Hill. I'm working toward a Bachelor of Science in Computer Science, a Bachelor of Arts in Political Science, and a Minor in Data Science. <br> <br>
 
-I currently work as an Undergraduate Research Assistant with Dr. Frank Baumgartner. My tasks primarily consist of cleaning and reshaping data to be merged with his main database. <br> <br>
+I currently work as an Undergraduate Research Assistant with [Dr. Frank Baumgartner](https://fbaum.unc.edu/), who does statistical research on the death penalty. My tasks primarily consist of cleaning and reshaping data to be merged with his main database. <br> <br>
 
 After graduation I plan on puruing a Ph.D., either in Political Science or Computer Science. My interests lie in the utilization of quantitative and computational methodologies to study political phenomena. Examples of past work include running regressions and generating visualizations based on country-year datasets; generating tables and visualization from survey data; and updating datasets in the backend while making appropriate changes to the prose.<br> <br>
 
