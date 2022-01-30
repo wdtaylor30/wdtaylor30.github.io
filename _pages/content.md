@@ -20,4 +20,4 @@ Currently, my YouTube content focuses on interview prep, cyber security, and int
 
 Whether teaching about code or streaming video games on a Friday night, I simply want to have my own positive and inclusive corner of the internet. My end goal is to create a safe space for people of ***all*** backgrounds to be themselves—transcending racial, ethnic, socioeconomic, and gender identities.
 
-I love talking about the future of technology education (and video games)! If you (the reader) have ideas or simply want to chat about anything, please reach out to _@wdtlive_ on Instagram or via email at _wdtaylor30 [at] gmail [dot] com_. (Please send all business inquiries to the latter email address.)
+I love talking about technology education (and video games)! If you (the reader) have ideas (or in the off chance of a collaboration/business inquiry), please reach out via email to _wdtaylor30 [at] gmail [dot] com_. 
