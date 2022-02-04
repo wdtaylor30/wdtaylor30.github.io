@@ -35,6 +35,7 @@ Computer Science
 - COMP 455: Models of Language and Computation
 - COMP 421: Databases\*
 - COMP 488: Data Science in the Business World\*
+- COMP 550: Algorithms and Analysis
 
 Political Science
 - POLI 130: Comparitive Politics\*
