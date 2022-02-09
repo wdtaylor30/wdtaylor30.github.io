@@ -7,13 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<figure>
-  <img src = "/Users/wdtay/Documents/website/images/jerome_group_photo_2.jpg">
-  <figcaption align = "center"><b>Myself with Dr. Baumgartner and a few of his graduate students and other research assistants.
-  In the middle is Jerome Morgan, a man wrongly convicted for murder and sentenced to life in prison at the age of 17.</b> 
-  </figcaption>
-<figure>
-
 Hello! I am a junior at the University of North Carolina at Chapel Hill. I'm working toward a Bachelor of Science in Computer Science, a Bachelor of Arts in Political Science, and a Minor in Data Science. <br> <br>
 
 I currently work as an Undergraduate Research Assistant with [Dr. Frank Baumgartner](https://fbaum.unc.edu/), who does statistical research on the death penalty. My tasks primarily consist of cleaning and reshaping data to be merged with his main database. <br> <br>
