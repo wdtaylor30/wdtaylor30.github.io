@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="../images/jerome_group_photo_2.jpg" width="350" class="center"/>
+<center><img src="../images/jerome_group_photo_2.jpg" width="350"/></center>
 
 *Myself, my PI and my fellow research assistants (+ a grad student!) after dinner with Jerome Morgan. Mr. Morgan was wrongly convicted of murder at seventeen and sentenced to life in prison. His innocence was recently proven, and we had the pleasure of hearing him speak at UNC in the Spring of 2022.*
 
