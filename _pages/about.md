@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+![](../images/jerome_group_photo_2.jpg)
+*Myself, my PI and my fellow research assistants after dinner with Jerome Morgan. Mr. Morgan was wrongly convicted of murder at 17 and sentenced to life in prison. His innocence was recently proven, and we had the pleasure of hearing him speak at UNC.*
+
 Hello! I am a junior at the University of North Carolina at Chapel Hill. I'm working toward a Bachelor of Science in Computer Science, a Bachelor of Arts in Political Science, and a Minor in Data Science. <br> <br>
 
 I currently work as an Undergraduate Research Assistant with [Dr. Frank Baumgartner](https://fbaum.unc.edu/), who does statistical research on the death penalty. My tasks primarily consist of cleaning and reshaping data to be merged with his main database. <br> <br>
