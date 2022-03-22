@@ -9,8 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[Academic writing sample](/files/281_capstone.pdf).
+[Academic writing sample I](/files/281_capstone.pdf).
 My final project from POLI 281: Data in Politics I, analyzing voter wait times by demograpic.
+
+[Academic writing sample II](/files/paper4.pdf).
+A shorter paper from POLI 130: Intro to Comparative Politics, comparing the impact of education on the development of strong domestic economies.
 
 
 [Code selections](https://github.com/wdtaylor30/SPEC_Lab).
