@@ -10,7 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-In my free time, I make videos on [YouTube](https://www.youtube.com/channel/UCMFgsiB1pfEGzmeZ7jmeHeg) and stream on Twitch.
+Utilizing skills in script writing, video recording, and editing, I had the pleasure of contributing to the USC SPEC Lab's [Applied Data Science Training](https://www.uscspec.org/applied-data-science-trainings) materials. You can find the first of my videos on data visualization in R [here](https://www.youtube.com/watch?v=VotVjGAkSiA).
+
+In my free time, I make similar videos on [YouTube](https://www.youtube.com/channel/UCMFgsiB1pfEGzmeZ7jmeHeg) and stream on Twitch.
 
 I grew up playing video games and watching popular content creators' streams and videos. In middle school I built a gaming computer and started a gaming channel on YouTube, unfortunately without much noteworthy success. Through that experience, however, I developed a videography and editing skillset that I continue to leverage.
 
