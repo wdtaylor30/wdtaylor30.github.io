@@ -14,6 +14,10 @@ redirect_from:
 
 
 ## Relevant Experiences
+**APSA Ralph Bunche Summer Institute Undergraduate Fellow** - _Duke University_
+
+Summer 2022
+
 **Undergraduate Research Assistant** - _University of North Carolina_ <br>
 Present
 
@@ -31,18 +35,17 @@ Computer Science
 - COMP 301: Software Architecture
 - COMP 311: Computer Organization
 - COMP 455: Models of Language and Computation
-- COMP 421: Databases\*
-- COMP 488: Data Science in the Business World\*
-- COMP 550: Algorithms and Analysis *
+- COMP 421: Databases
+- COMP 488: Data Science in the Business World
+- COMP 550: Algorithms and Analysis
 
 Political Science
-- POLI 130: Comparitive Politics\*
+- POLI 130: Comparitive Politics
 - POLI 150: International Relations
 - POLI 209: Analyzing Public Opinion
 - POLI 281: Data in Politics I
 - POLI 381: Data in Politics II
 
-_An asterisk indicates that I'm currently taking a class. I look forward to mastering the relevant skillsets at the end of the current semester!_
 
 ## Personal Projects
 In my free time I enjoy making YouTube videos and streaming on Twitch.
