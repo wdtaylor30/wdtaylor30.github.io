@@ -14,8 +14,7 @@ redirect_from:
 
 
 ## Relevant Experiences
-**APSA Ralph Bunche Summer Institute Undergraduate Fellow** - _Duke University_
-
+**APSA Ralph Bunche Summer Institute Undergraduate Fellow** - _Duke University_<br>
 Summer 2022
 
 **Undergraduate Research Assistant** - _University of North Carolina_ <br>
