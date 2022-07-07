@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<center><img src="../images/RBSI_2022.jpg" width="500"/></center>
+<center><img src="../images/RBSI_2022.jpg" width="1000"/></center>
 
 *Myself with my 2022 Ralphe Bunch Summer Institute cohort.*
 
