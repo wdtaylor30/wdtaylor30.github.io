@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<center><img src="../images/jerome_group_photo_2.jpg" width="350"/></center>
+<center><img src="../images/RBSI_2022.jpg" width="350"/></center>
 
-*Myself, my PI and my fellow research assistants (+ a grad student) after dinner with Jerome Morgan. Mr. Morgan was wrongly convicted of murder at seventeen and sentenced to life in prison. His innocence was recently proven, and we had the pleasure of hearing him speak at UNC in the Spring of 2022.*
+*Myself with my 2022 Ralphe Bunch Summer Institute cohort.*
 
 I am a rising senior at the University of North Carolina at Chapel Hill. I'm working toward a Bachelor of Science in Computer Science and a Bachelor of Arts in Political Science. My primary areas of focus are cyber security and data science. <br> <br>
 
