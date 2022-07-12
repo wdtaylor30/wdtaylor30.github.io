@@ -9,7 +9,7 @@ redirect_from:
 
 <center><img src="../images/RBSI_2022.jpg" width="1000"/></center>
 
-*I had the honor of being a member of the [2022 Ralphe Bunch Summer Institute](https://www.apsanet.org/DIVERSITY/Ralph-Bunche-Summer-Institute/About-the-RBSI-Program) cohort.*
+*I had the honor of being a member of the 2022 [Ralphe Bunch Summer Institute](https://www.apsanet.org/DIVERSITY/Ralph-Bunche-Summer-Institute/About-the-RBSI-Program) cohort.*
 
 I am a rising senior at the University of North Carolina at Chapel Hill. I'm working toward a Bachelor of Science in Computer Science and a Bachelor of Arts in Political Science. My primary areas of focus are cyber security and data science. <br> <br>
 
