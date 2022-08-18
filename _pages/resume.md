@@ -43,6 +43,7 @@ Computer Science
 - COMP 550: Algorithms and Analysis
 
 Political Science
+- POLI 100: American Democracy in Changing Times*
 - POLI 130: Comparitive Politics
 - POLI 150: International Relations
 - POLI 209: Analyzing Public Opinion
