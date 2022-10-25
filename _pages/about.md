@@ -12,7 +12,7 @@ redirect_from:
 *I had the honor of being a member of the [2022 American Political Science Association Ralph Bunche
  Summer Institute](https://www.apsanet.org/DIVERSITY/Ralph-Bunche-Summer-Institute/About-the-RBSI-Program) cohort.*
 
-I am a senior at the University of North Carolina at Chapel Hill. I'm working toward a Bachelor of Science in Computer Science and a Bachelor of Arts in Political Science. My primary areas of focus are criminal justice, privacy, and data science. <br> <br>
+Hello! I am a senior at the University of North Carolina at Chapel Hill. I'm working toward a Bachelor of Science in Computer Science and a Bachelor of Arts in Political Science. My primary areas of focus are criminal justice, privacy, and data science. <br> <br>
 
 I currently work as an Undergraduate Research Assistant with [Dr. Frank Baumgartner](https://fbaum.unc.edu/) and some of his graduate students. I am currently working with [Marty Davidson (Dept. of Political Science, Michigan)](https://www.martydavidson.com/) on spatial approaches to documenting disparate criminal justice contact in North Carolina. <br> <br>
 
