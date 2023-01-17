@@ -14,7 +14,7 @@ redirect_from:
 
 Hello! I am a senior at the University of North Carolina at Chapel Hill. I am working toward a Bachelor of Science in Computer Science and a Bachelor of Arts in Political Science. My primary areas of focus are criminal justice and formal, quantitative, and computational methods.
 
-I currently work as an Undergraduate Research Assistant at the UNC School of Government's [Criminal Justice Innovation Lab](https://cjil.sog.unc.edu/).
+I currently work as an Undergraduate Research Assistant at the UNC School of Government [Criminal Justice Innovation Lab](https://cjil.sog.unc.edu/).
 
 Prior to this, I worked with [Dr. Frank Baumgartner](https://fbaum.unc.edu/) and some of his graduate students. I am currently working with [Marty Davidson (Dept. of Political Science, Michigan)](https://www.martydavidson.com/), learning about spatial approaches to documenting disparate criminal justice contact in North Carolina.
 
