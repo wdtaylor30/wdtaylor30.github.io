@@ -10,7 +10,7 @@ redirect_from:
 <center><img src="../images/RBSI_2022.jpg" width="1000"/></center>
 
 *I had the honor of being a member of the [2022 American Political Science Association Ralph Bunche
- Summer Institute](https://www.apsanet.org/DIVERSITY/Ralph-Bunche-Summer-Institute/About-the-RBSI-Program) cohort.*
+ Summer Institute](https://www.apsanet.org/DIVERSITY/Ralph-Bunche-Summer-Institute/About-the-RBSI-Program) cohort. This is a group of scholars that's near and dear to my heart!*
 
 Hello! I am a recent graduate from the University of North Carolina at Chapel Hill. I hold a Bachelor of Science in Computer Science and a Bachelor of Arts in Political Science. My primary areas of interest are criminal justice, socioeconomic inequality and formal, quantitative, and computational methods. I am currently applying to doctoral programs in public policy and political science during the 2023-2024 application cycle.
 
