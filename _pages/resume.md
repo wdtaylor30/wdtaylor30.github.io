@@ -14,6 +14,8 @@ redirect_from:
 
 
 ## Relevant Experiences
+**Data Analyst** - _UNC School of Government Criminal Justice Innovation Lab_<br>
+
 **APSA Ralph Bunche Summer Institute Undergraduate Fellow** - _Duke University_<br>
 Summer 2022
 
@@ -37,7 +39,7 @@ Computer Science
 - COMP 301: Software Architecture
 - COMP 311: Computer Organization
 - COMP 421: Databases
-- COMP 435: Security Concepts*
+- COMP 435: Security Concepts
 - COMP 455: Models of Language and Computation
 - COMP 488: Data Science in the Business World
 - COMP 550: Algorithms and Analysis
@@ -47,14 +49,12 @@ Political Science
 - POLI 130: Comparitive Politics
 - POLI 150: International Relations
 - POLI 209: Analyzing Public Opinion
-- POLI 288: Strategy and Politics*
+- POLI 288: Strategy and Politics (Game Theory)
 - POLI 281: Data in Politics I
 - POLI 381: Data in Politics II
 - POLI 490: Advanced Research-Racial Disparities in Criminal Justice*
 - POLSCI 525 (Duke): Race and American Politics
 - POLSCI 630 (Duke): Probability and Basic Regression
-
-  _An asterisk (*) indicates that I'm currently taking a class. I look forward to mastering the relevant skillset at the end of the semester!_
 
 
 ## Personal Projects
