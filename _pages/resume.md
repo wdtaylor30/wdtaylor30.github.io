@@ -45,14 +45,14 @@ Computer Science
 - COMP 550: Algorithms and Analysis
 
 Political Science
-- POLI 100: American Democracy in Changing Times*
+- POLI 100: American Democracy in Changing Times
 - POLI 130: Comparitive Politics
 - POLI 150: International Relations
 - POLI 209: Analyzing Public Opinion
 - POLI 288: Strategy and Politics (Game Theory)
 - POLI 281: Data in Politics I
 - POLI 381: Data in Politics II
-- POLI 490: Advanced Research-Racial Disparities in Criminal Justice*
+- POLI 490: Advanced Research-Racial Disparities in Criminal Justice
 - POLSCI 525 (Duke): Race and American Politics
 - POLSCI 630 (Duke): Probability and Basic Regression
 
