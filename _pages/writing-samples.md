@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Academic Writing Sample I](/files/Taylor_Writing_Sample.pdf)
+My senior capstone project, developing the idea of social vulnerability in the context of contact with the criminal legal system.
 
-[Academic writing sample I](/files/281_capstone.pdf).
+[Academic writing sample II](/files/281_capstone.pdf).
 My final project from POLI 281: Data in Politics I, using OLS regression to analyze voter wait times by demograpic.
 
-[Academic writing sample II](/files/paper4.pdf).
+[Academic writing sample III](/files/paper4.pdf).
 A shorter paper from POLI 130: Intro to Comparative Politics, using OLS regression to explore the impact of education on the development of strong domestic economies.
 
 

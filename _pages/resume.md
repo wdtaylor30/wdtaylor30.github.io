@@ -10,11 +10,12 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](/files/Taylor_resume.pdf)
+[CV](/files/Taylor_CV.pdf)
 
 
 ## Relevant Experiences
 **Data Analyst** - _UNC School of Government Criminal Justice Innovation Lab_<br>
+Present
 
 **APSA Ralph Bunche Summer Institute Undergraduate Fellow** - _Duke University_<br>
 Summer 2022
@@ -23,39 +24,13 @@ Summer 2022
 Summer 2022
 
 **Undergraduate Research Assistant** - _University of North Carolina_ <br>
-Present
+2021-2023
 
 **USC SPEC Lab NSF REU Fellow** - _University of Southern California_ <br>
 Summer 2021
 
 **Identity and Access Management Intern** - _Allscripts_ <br>
 Summer 2020
-
-## Relevant Coursework
-Computer Science
-- COMP 210: Data Structures and Analysis
-- COMP 211: Systems Fundamentals
-- COMP 283: Discrete Structures
-- COMP 301: Software Architecture
-- COMP 311: Computer Organization
-- COMP 421: Databases
-- COMP 435: Security Concepts
-- COMP 455: Models of Language and Computation
-- COMP 488: Data Science in the Business World
-- COMP 550: Algorithms and Analysis
-
-Political Science
-- POLI 100: American Democracy in Changing Times
-- POLI 130: Comparitive Politics
-- POLI 150: International Relations
-- POLI 209: Analyzing Public Opinion
-- POLI 288: Strategy and Politics (Game Theory)
-- POLI 281: Data in Politics I
-- POLI 381: Data in Politics II
-- POLI 490: Advanced Research-Racial Disparities in Criminal Justice
-- POLSCI 525 (Duke): Race and American Politics
-- POLSCI 630 (Duke): Probability and Basic Regression
-
 
 ## Personal Projects
 In my free time I enjoy making YouTube videos and streaming on Twitch.

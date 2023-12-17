@@ -26,4 +26,4 @@ Currently, my YouTube content focuses on interview prep, cyber security, and int
 I'm certainly not the first person to try to bring positivity to the internet, so I want to use my skillset to help in any unique way that I can. Whether teaching about code or streaming video games on a Friday night, I simply want to have my own positive and inclusive corner of the internet. My end goal is to hold space for people of ***all*** backgrounds to be themselves—transcending racial, ethnic, socioeconomic, and gender identities.
 --->
 
-I love talking about technology education (and video games)! If you (the reader) have ideas (or in the off chance of a collaboration/business inquiry), please reach out via email to _wdtaylor30 [at] gmail [dot] com_. 
+I love talking about technology/technology education (and video games)! If you (the reader) have ideas or would like to collaborate, please reach out via email to _wdtaylor30 [at] gmail [dot] com_. 
