@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Academic Writing Sample I](/files/Taylor_Writing_Sample.pdf)
+[Academic Writing Sample I](/files/Taylor_Writing_Sample.pdf).
 My senior capstone project, developing the idea of social vulnerability in the context of contact with the criminal legal system.
 
 [Academic writing sample II](/files/281_capstone.pdf).
