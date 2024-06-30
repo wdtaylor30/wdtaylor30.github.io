@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "William Daniel Taylor"
 title_separator          : "-"
 name                     : &name "William Daniel Taylor"
-description              : &description "Analyst, UNC School of Government Criminal Justice Innovation Lab"
+description              : &description "Doctoral Student, University of Michigan - Ann Arbor"
 url                      : "https://wdtaylor30.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wdtaylor30.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "William Daniel Taylor"
   avatar           : "RBSI_Headshot_Cropped.jpg"
-  bio              : "Analyst, UNC School of Government Criminal Justice Innovation Lab"
+  bio              : "Doctoral Student, University of Michigan - Ann Arbor"
   location         : "North Carolina"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
