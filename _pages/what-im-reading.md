@@ -13,7 +13,7 @@ This is a list of some of recent favorites—fiction/non-fiction books, papers, 
 
 ## Papers/Chapters/Articles
 
-Linn, Suzanna, and Clayton Webb. "A Principled Approach to Time Series Analysis." In The SAGE Handbook of Research Methods in Political Science and International Relations, 599-615. 55 City Road, London: SAGE Publications Ltd, 2020. [https://doi.org9781526486387/10.4135/]("https://doi.org9781526486387/10.4135").
+Linn, Suzanna, and Clayton Webb. "A Principled Approach to Time Series Analysis." In The SAGE Handbook of Research Methods in Political Science and International Relations, 599-615. 55 City Road, London: SAGE Publications Ltd, 2020. [https://doi.org9781526486387/10.4135/](https://doi.org9781526486387/10.4135).
 
 ## Books
 
