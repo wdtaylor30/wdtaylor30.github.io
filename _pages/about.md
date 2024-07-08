@@ -10,4 +10,4 @@ Hello! I am a first-year doctoral student in political science and public policy
 
 Since January 2023 I have worked as an analyst at the UNC School of Government [Criminal Justice Innovation Lab](https://cjil.sog.unc.edu/). I apply time series, NLP, and other computational methods to projects related to bail reform, alternative responses to behavioral health crises, and [criminal record clearance](https://cjil.shinyapps.io/RecordClearanceDashboard/). I combine computer science theory with policy expertise to scale the Lab's analytic capabilities on these and other projects.
 
-I hold a Bachelor of Science in Computer Science, with a second major in Political Science, from the University of North Carolina at Chapel Hill.
+I hold a Bachelor of Science in computer science, with a second major in political science, from the University of North Carolina at Chapel Hill.
