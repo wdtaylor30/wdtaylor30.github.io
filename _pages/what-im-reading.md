@@ -15,6 +15,8 @@ This is a list of some of recent favorites—fiction/non-fiction books, papers, 
 
 Linn, Suzanna, and Clayton Webb. "A Principled Approach to Time Series Analysis." In The SAGE Handbook of Research Methods in Political Science and International Relations, 599-615. 55 City Road, London: SAGE Publications Ltd, 2020. [https://doi.org/10.4135/9781526486387].
 
+Fowler, Anthony, Seth J. Hill, Jeffrey B. Lewis, Chris Tausanovitch, Lynn Vavreck, and Christopher Warshaw. “Moderates.” American Political Science Review 117, no. 2 (May 2023): 643–60. [https://doi.org/10.1017/S0003055422000818.]
+
 ## Books
 
 [*The Philadelphia Negro: A Social Study*](https://www.amazon.com/Philadelphia-Negro-Pennsylvanias-Population-Environment/dp/1789872286/ref=sr_1_1?crid=39K5DLEA36CJ9&dib=eyJ2IjoiMSJ9.Sux_iNKIZ0l5vGxN4mPyfBBEe5FbPTsNAmh1KENvOux1NKd7ZSMETgvmAMVcMIW-PwyyX46qLEV-v7fD_tvak2duY2i5i4yXuZDPY1Fsw9aINxXNqtiLX1DY8XD9h4Z7vKKcrvCuRlewCryaTPBU84_5A0IqVqUZZNiKzH-aHaQDfH_55SeLJwiEZnNJn_ckcGK1NypBwS24VlynGKspTSc7Vaone26WpBJ1RIO2Vi8.L9QFlezTJdgiaGZoZjFEVpHbAKH2wp0FjhCM-kDl1Lc&dib_tag=se&keywords=the+philadelphia+negro&qid=1719763148&sprefix=the+philadelphia+negro%2Caps%2C101&sr=8-1) by W.E.B. Du Bois.

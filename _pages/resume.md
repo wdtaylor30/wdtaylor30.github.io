@@ -31,8 +31,3 @@ Summer 2021
 
 **Identity and Access Management Intern** - _Allscripts_ <br>
 Summer 2020
-
-## Personal Projects
-In my free time I enjoy making YouTube videos and streaming on Twitch.
-
-My content pertains to life as a college student--particularly content relating to succeeding as a STEM student. Click [here](https://wdtaylor30.github.io/content/) to learn more!
