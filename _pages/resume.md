@@ -15,7 +15,7 @@ redirect_from:
 
 ## Relevant Experiences
 **Data Analyst** - _UNC School of Government Criminal Justice Innovation Lab_<br>
-Present
+2023-2025
 
 **APSA Ralph Bunche Summer Institute Undergraduate Fellow** - _Duke University_<br>
 Summer 2022
