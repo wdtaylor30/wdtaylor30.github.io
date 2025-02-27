@@ -19,6 +19,8 @@ Fowler, Anthony, Seth J. Hill, Jeffrey B. Lewis, Chris Tausanovitch, Lynn Vavrec
 
 ## Books
 
+[*Black Reconstruction in America*](https://www.amazon.com/Black-Reconstruction-America-1860-1880-Burghardt/dp/0684856573) by W.E.B. Du Bois
+
 [*Black Visions*](https://www.amazon.com/Black-Visions-Contemporary-African-American-Ideologies/dp/0226138615?crid=1QJ0KDXHJNZUI&dib=eyJ2IjoiMSJ9.8IFEBM97A2EjYyVoG1DG06udr7zwxs7zUi0EUL-ayST7TfoJVYhpzS9hfwc4uluf4QgpdoMrwMy55YMuYRztjsHV_AGzzeoSH0Uk9Tn5n-EK1d81KoKRs68Lqu3bGXkhaflCX246OT79SdillhF5qEbmkXQ8FJUK-wGlwK8zSctaqRf58AGF3ze5RhkKklw5R0Bz3Ohe3bTXIGtUpPBNtmNPMWPHXWu5g4kxnFoEnl4._XQ9WXz0lmNnalVacZfj_Isyt36fgmR-kzncZ0t2M0g&dib_tag=se&keywords=black+visions&qid=1736459151&sprefix=black+vision%2Caps%2C178&sr=8-1) by Michael C. Dawson
 
 [*Micromotives and Macrobehavior*](https://www.amazon.com/s?k=micromotives+and+macrobehavior&crid=Q8R2KSTHW9UT&sprefix=micromotives+and+%2Caps%2C139&ref=nb_sb_ss_ts-doa-p_1_17) by Thomas Schelling
